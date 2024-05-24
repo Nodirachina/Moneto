@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'SM';
+    src: url(../fonts/ibm-plex-serif.medium.ttf);
+}
+
+@font-face {
+    font-family: 'SR';
+    src: url(../fonts/ibm-plex-serif.regular.ttf);
+}
+
+@font-face {
+    font-family: 'SB';
+    src: url(../fonts/ibm-plex-serif.semibold.ttf);
+}
